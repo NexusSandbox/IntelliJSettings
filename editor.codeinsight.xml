@@ -9,5 +9,6 @@
     <option name="REFORMAT_ON_PASTE" value="4" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
     <EXCLUDED_PACKAGE NAME="org.junit.Assert" />
+    <EXCLUDED_PACKAGE NAME="org.junit.Test" />
   </component>
 </application>
