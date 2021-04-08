@@ -1,0 +1,24 @@
+.env files support
+Add to gitignore
+atom material icons
+aws CloudFormation
+AWS Toolkit
+Batch Scripts Support
+CodeGlance
+CSV Plugin
+Dash
+EnvFile
+HashiCorp Terraform / HCL language support
+Ideolog
+JS GraphQL
+Kotlin
+Ktor
+Live Edit
+MaterialTheme UI
+One Dark theme
+Power Mode II
+Prettier
+Scala
+SQL Delight
+String Manipulation
+Markdown
